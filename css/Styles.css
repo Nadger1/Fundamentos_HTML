@@ -1,0 +1,23 @@
+body{
+    margin-left: 50px;
+}
+img{
+    margin-left: 50px;
+    width: 30%;
+    height: 30%;
+}
+h1{
+    background-color: cyan;
+}
+h2{
+    background-color: aquamarine;
+}
+footer{
+    background-color: darkgray;
+}
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
+.tg th{padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
+.tg .tg-7a16{background-color:#fffc9e;text-align:center}
+.tg .tg-8xib{background-color:#fffc9e;text-align:center;vertical-align:top}
+.tg .tg-0lax{text-align:left;vertical-align:top}
